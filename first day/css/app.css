@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+html,
+body,
+div {
+    margin: 0;
+    padding: 0;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: #221;
+}
+
+
